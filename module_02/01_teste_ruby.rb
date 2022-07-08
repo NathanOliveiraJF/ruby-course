@@ -1,0 +1,1 @@
+print 'Olá curso de Rails'
